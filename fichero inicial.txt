@@ -1,1 +1,2 @@
 fichero inicial
+linea de rama2
