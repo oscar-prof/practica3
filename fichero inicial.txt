@@ -1,2 +1,2 @@
 fichero inicial
-linea de rama2 cambio desde main
+linea de rama2 cambio2 desde main 
